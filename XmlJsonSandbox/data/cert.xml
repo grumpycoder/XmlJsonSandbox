@@ -1,0 +1,18 @@
+<Message>
+    <EventType>CertReviewCompleteEvent</EventType>
+    <CertReviewCompleteEvent>
+        <CertReview>
+            <AppId>P1I53AJ</AppId>
+            <Outcome>approved</Outcome>
+            <Note>approved</Note>
+            <ReviewDate>2024-09-28T13:49:00.580</ReviewDate>
+            <UserId>BJT-0126-9802</UserId>
+        </CertReview>
+        <EventType>
+            <Value>cert-review-complete</Value>
+        </EventType>
+        <Source>
+            <Value>enchoice.aws.thirdparty</Value>
+        </Source>
+    </CertReviewCompleteEvent>
+</Message>

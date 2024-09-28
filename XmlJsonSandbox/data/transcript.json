@@ -1,0 +1,16 @@
+{
+  "detail": {
+    "teachTranscripts": {
+      "alsdeId": "MXL-0125-7879",
+      "count": 1
+    },
+    "eventType": {
+      "Value": "transcript-updated"
+    },
+    "source": {
+      "Value": "enchoice.aws.thirdparty"
+    }
+  },
+  "source": "enchoice.aws.thirdparty",
+  "eventType": "transcript-updated"
+}

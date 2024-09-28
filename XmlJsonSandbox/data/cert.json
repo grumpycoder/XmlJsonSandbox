@@ -1,0 +1,19 @@
+{
+  "detail": {
+    "certReview": {
+      "appId": "LFVZ4CO",
+      "outcome": "approved",
+      "note": "approved",
+      "reviewDate": "2023-09-20T19:48:16.26",
+      "userId": "MXL-0125-7879"
+    },
+    "source": {
+      "Value": "enchoice.aws.thirdparty"
+    },
+    "eventType": {
+      "Value": "cert-review-complete"
+    }
+  },
+  "source": "enchoice.aws.thirdparty",
+  "eventType": "cert-review-complete"
+}

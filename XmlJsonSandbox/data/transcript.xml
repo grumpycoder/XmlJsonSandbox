@@ -1,0 +1,15 @@
+<Message>
+    <EventType>TranscriptUpdatedEvent</EventType>
+    <TranscriptUpdatedEvent>
+        <TeachTranscript>
+            <AlsdeId>EMD-0072-8754</AlsdeId>
+            <Count>1</Count>
+        </TeachTranscript>
+        <EventType>
+            <Value>transcript-updated</Value>
+        </EventType>
+        <Source>
+            <Value>enchoice.aws.thirdparty</Value>
+        </Source>
+    </TranscriptUpdatedEvent>
+</Message>

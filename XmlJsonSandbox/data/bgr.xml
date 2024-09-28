@@ -1,0 +1,22 @@
+<Message>
+    <EventType>BgrUpdatedEvent</EventType>
+    <BgrUpdatedEvent>
+        <Background>
+            <AlsdeId>EMD-0072-8754</AlsdeId>
+            <IsBackgroundCheckRequired>false</IsBackgroundCheckRequired>
+            <StatusMessage>Verified</StatusMessage>
+            <PortalMessage>A criminal history background check for purposes of classified employment was completed on
+                09/11/2024. The results were sent to the school system requesting the check.
+            </PortalMessage>
+            <StatusDate>2024-09-11T09:07:12.280</StatusDate>
+            <SystemOfRecord>Alexander City</SystemOfRecord>
+            <AssignToBgr>true</AssignToBgr>
+        </Background>
+        <EventType>
+            <Value>bgr-updated</Value>
+        </EventType>
+        <Source>
+            <Value>enchoice.aws.thirdparty</Value>
+        </Source>
+    </BgrUpdatedEvent>
+</Message>

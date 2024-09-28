@@ -1,0 +1,43 @@
+{
+  "detail": {
+    "background": {
+      "alsdeId": "ACL-0033-8944",
+      "isBackgroundCheckRequired": false,
+      "statusMessage": "Verified",
+      "portalMessage": "Individual has completed a criminal history background check as of 06/07/2024 and is suitable and fit to teach under state law.",
+      "statusDate": "2024-06-07T00:00:00",
+      "systemOfRecord": "Orange Beach City",
+      "assignToBgr": false,
+      "fingerprintAppointments": [
+        {
+          "tcn": "",
+          "appointmentDateUtc": "2024-06-12T02:33:09.29",
+          "scheduledDateUtc": "2024-06-12T02:33:09.29",
+          "cancelledDateUtc": "",
+          "isCompleted": false,
+          "isCancelled": false,
+          "isMissedAppointment": false,
+          "status": "Scheduled"
+        },
+        {
+          "tcn": "",
+          "appointmentDateUtc": "2024-06-14T02:33:09.29",
+          "scheduledDateUtc": "2024-06-14T02:33:09.29",
+          "cancelledDateUtc": "",
+          "isCompleted": false,
+          "isCancelled": false,
+          "isMissedAppointment": false,
+          "status": "Scheduled"
+        }
+      ]
+    },
+    "source": {
+      "Value": "enchoice.aws.thirdparty"
+    },
+    "eventType": {
+      "Value": "bgr-updated"
+    }
+  },
+  "source": "enchoice.aws.thirdparty",
+  "eventType": "bgr-updated"
+}
